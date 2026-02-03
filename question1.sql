@@ -16,4 +16,7 @@ SELECT
     salary,
     salary_rank
 from max_salary
+
 where salary_rank = 1;
+
+--Q1:Return all employees who earns the highest salary in each department. (Hint: use analytic functions)
