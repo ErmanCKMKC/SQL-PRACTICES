@@ -13,3 +13,4 @@ substr(department_name,-3,1) as output
 from empty_department
 where calisan_sayisi = 0;
 
+--Q4:(Question 3 cont.) Return the string between 1st letter from the end and 3th letter from the end.  . (For example => input = ‘Benefits’, output = ‘sti’).
