@@ -11,3 +11,5 @@ SELECT department_name,
     calisan_sayisi
 from empty_department
 where calisan_sayisi = 0;
+
+--Q3:Some departments don’t have any registered employee record.	 Return 5th letter of those department names. 
