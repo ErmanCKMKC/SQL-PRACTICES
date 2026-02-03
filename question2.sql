@@ -16,3 +16,5 @@ select
 from(department_location)
 group by location_id,city
 order by location_id;
+
+--Q2:Return number of employees registered for each location.
