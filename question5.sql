@@ -13,3 +13,5 @@ GROUP BY d.department_name
 )
 SELECT *
 From reversed;
+
+--Q5:(Question 3 cont.) Return reverse of those department names. (For example => input = ‘Benefits’, output = ‘stifeneB’). (HINT: do not use reverse function)
